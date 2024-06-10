@@ -28,7 +28,7 @@ Connect the LCD to your Arduino as follows:
 - D6 to pin 3
 - D7 to pin 2
 
-![Emulated View](https://github.com/ShekoG1/Arduino-LCD-Message-Display/blob/main/emulated.png)
+![Emulated View](https://github.com/ShekoG1/Arduino-Functional-LCD/blob/main/emulated.png)
 
 ## License
 
