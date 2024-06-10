@@ -1,4 +1,4 @@
-# Arduino LCD Message Display
+# Arduino-Functional-LCD
 
 This Arduino project demonstrates a simple message display on an LCD using the LiquidCrystal library. The LCD scrolls the message "Hire Me!" continuously, making it an engaging and straightforward project for beginners.
 
